@@ -1,0 +1,16 @@
+1 Princess Street
+95000.00
+100 Main Street
+100000.00
+123 Test Road
+509000.50
+2 Pine Street
+89888.00
+300 Error avenue
+20000.25
+45 St. Lawrence Street
+405000.00
+500 Mcdonald avenue
+405604.54
+635 Princess Street
+504969.05
